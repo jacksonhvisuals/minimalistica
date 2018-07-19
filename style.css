@@ -1,16 +1,16 @@
 body {background-color: #f2f2f2; overflow-x: hidden}
 h1, p, ul, li {font-family: "Roboto Mono", monospace} 
-h1 {font-size: 5vw; font-weight: 600}
-p {font-size: 2.6vw; color: grey; margin-bottom: 30px;}
+h1 {font-size: 4vw; font-weight: 600}
+p {font-size: 1.8vw; color: grey; margin-bottom: 30px;}
 ul {list-style-type: none; padding: 0;}
 li:nth-child(1) {color: #ce5284}
 li:nth-child(2) {color: #e5a34c}
 li:nth-child(3) {color: #5caae8}
 li:nth-child(4) {color: #7f3fb9}
-li {text-decoration: underline; display: inline; font-size: 1.8vw; margin-right: 10px;}
+li {text-decoration: underline; display: inline; font-size: 1.5vw; margin-right: 10px;}
 a:hover {color: inherit; filter: brightness(85%); cursor:pointer}
 li a {color: inherit}
-.malign {margin-top: 38vh;}
+.malign {margin-top: 35vh;}
 .noselect {
     -webkit-touch-callout: none; /* iOS Safari */
     -webkit-user-select: none; /* Safari */
