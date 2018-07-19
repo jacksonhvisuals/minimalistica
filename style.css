@@ -27,3 +27,9 @@ li a {color: inherit}
     p {font-size: 3em !important}
     li {font-size:2.3em !important}
 }
+
+@media only screen and (max-width: 400px) {
+    h1 {font-size: 7em !important}
+    p {font-size: 5em !important}
+    li {font-size: 4.3em !important}
+}
