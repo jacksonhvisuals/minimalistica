@@ -23,13 +23,13 @@ li a {color: inherit}
 
 /* Breakpoints for font resizing */
 @media only screen and (max-width: 600px) {
-    h1 {font-size: 8vw !important}
-    p {font-size: 4vw !important}
-    li {font-size: 2.3vw !important}
+    h1 {font-size: 8vw}
+    p {font-size: 4vw}
+    li {font-size: 2.3vw}
 }
 
 @media only screen and (max-width: 400px) {
-    h1 {font-size: 10vw !important}
-    p {font-size: 6vw !important}
-    li {font-size: 4.3vw !important}
+    h1 {font-size: 10vw}
+    p {font-size: 6vw}
+    li {font-size: 4.3vw}
 }
