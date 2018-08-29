@@ -24,6 +24,7 @@ li a {color: inherit}
     h1 {font-size: 6vw}
     p {font-size: 3vw}
     li {font-size: 1.9vw}
+
 }
 /* Breakpoints for font resizing */
 @media only screen and (max-width: 600px) {
@@ -36,4 +37,6 @@ li a {color: inherit}
     h1 {font-size: 10vw}
     p {font-size: 6vw}
     li {font-size: 4.3vw}
+    .malign {margin-top: 26vh;}
+
 }
